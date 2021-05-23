@@ -1,20 +1,20 @@
-# starter-node-ts
+# starter-express-ts
 
-Starter for Node.js + TypeScript
+Starter for [Express](https://expressjs.com/) + TypeScript
 
 ## Install
 
 ```shell
 $ mkdir ${PJ_NAME}
 $ cp ${PJ_NAME}
-$ curl -SL https://github.com/memory-lovers/starter-node-ts/archive/master.zip | tar -xf - --strip-components 1
+$ curl -SL https://github.com/memory-lovers/starter-express-ts/archive/master.zip | tar -xf - --strip-components 1
 $ ls
 # => starter-node-ts/
 ```
 
 ## Licence
 
-[MIT](https://github.com/memory-lovers/starter-node-ts/blob/master/LICENCE)
+[MIT](https://github.com/memory-lovers/starter-express-ts/blob/master/LICENCE)
 
 ## Author
 
